@@ -4,10 +4,10 @@
     <title>notebook</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://dfarice.com/notebook/</link>
-    <atom:link href="http://dfarice.com/notebook/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Oct 2015 15:06:32 -0500</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2015 15:06:32 -0500</lastBuildDate>
+    <link>http://dfarice.com/</link>
+    <atom:link href="http://dfarice.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 27 Oct 2015 16:39:21 -0500</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2015 16:39:21 -0500</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Tue, 27 Oct 2015 14:26:24 -0500</pubDate>
-        <link>http://dfarice.com/notebook/jekyll/update/2015/10/27/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://dfarice.com/notebook/jekyll/update/2015/10/27/welcome-to-jekyll.html</guid>
+        <link>http://dfarice.com/jekyll/update/2015/10/27/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://dfarice.com/jekyll/update/2015/10/27/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
