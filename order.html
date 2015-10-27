@@ -1,3 +1,47 @@
 ---
 layout: default
 ---
+<div class="container">
+  <div class="row">
+    <h1 class="header center orange-text text-lighten-1">Order Now!</h1>
+      <div class="row center">
+        <h5 class="header col s12 light">Fill in your info and we will get back to you ASAP about availability</h5>
+      </div>
+  </div>
+
+<!-- <form method="POST" action="////formspree.io/maclockard@gmail.com">
+    <input type="email" name="_replyto" placeholder="Your email" />
+    <textarea name="message" rows="5" placeholder="Your message"></textarea>
+    <input type="text" name="_gotcha" style="display:none">
+    <button type="submit">Send</button>
+</form> -->
+
+  <form class="col s12" method="POST" action="////formspree.io/maclockard@gmail.com">
+
+    <div class="row">
+      <div class="input-field col s6 offset-s3">
+        <input id="name" name="name" type="text" class="validate">
+        <label for="name">Name</label>
+      </div>
+    </div>
+
+    <input type="text" name="_gotcha" style="display:none">
+
+    <div class="row">
+      <div class="input-field col s6 offset-s3">
+        <input id="email" name="_replyto" type="email" class="validate">
+        <label for="email">Email</label>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="input-field col s6 offset-s3">
+        <button class="btn waves-effect waves-light orange lighten-1" type="submit" name="action">Submit
+          <i class="material-icons right">send</i>
+        </button>
+      </div>
+    </div>
+
+
+  </form>
+</div>
